@@ -1,3 +1,3 @@
-# React + Vite# Start
+# Start
 npm i
 npm run dev
